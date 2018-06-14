@@ -1,0 +1,10 @@
+{
+  "name": "calreact",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "create-react-class": "^15.6.3"
+  }
+}
